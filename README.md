@@ -1,4 +1,4 @@
-Cloudrepos
+LearnSharePortal
 ==========
 
-Use to store cloud projects.
+MVC-Cloud Application
